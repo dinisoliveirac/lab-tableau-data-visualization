@@ -1,1 +1,7 @@
-https://public.tableau.com/profile/dinis.oliveira#!/vizhome/LabDataVisualizationwithTableau_15866510475640/TeamsEffectiveness
+Main:
+
+https://public.tableau.com/profile/dinis.oliveira#!/vizhome/LabDataVisualizationwithTableau_15866510475640/NFLTeamStats
+
+Bonus:
+
+https://public.tableau.com/profile/dinis.oliveira#!/vizhome/WorldPopulationDensitybyCountry/WorldPopulationDensitybyCountry?publish=yes
